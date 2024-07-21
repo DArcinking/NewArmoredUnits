@@ -4,7 +4,7 @@ size: 512, 200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Phasers
+UnitIcons/T-12 Medium Tank
   rotate: false
   xy: 328, 4
   size: 100, 100
